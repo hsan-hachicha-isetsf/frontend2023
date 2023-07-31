@@ -1,0 +1,12 @@
+.container {
+  padding: 40px;
+  margin:30px;
+  background: #41c5e0;
+}
+.containervert{
+padding: 40px;
+  margin:40px;
+  background: #89b4a8;
+  width:1200px;
+  height:400px;
+}
